@@ -5,3 +5,4 @@ __pycache__/
 *.xlsx
 *.pkl
 .DS_Store
+anaconda_projects/
